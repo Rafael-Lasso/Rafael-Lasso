@@ -15,10 +15,10 @@
 <div>
    <ul >
       <li>✨ Organização</li>
+      <li>🕵️‍♂️ Autonomia</li>
       <li>🧹 Codigo Limpo</li>
       <li>🧮 Programação Orientada a Objeto (POO)</li>
       <li>📱 Designe Repositivo</li>
-      <li>🕵️‍♂️ Autonomia</li>
    </ul>
 </div>
   
