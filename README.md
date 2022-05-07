@@ -2,9 +2,17 @@
 
 <div align="center">
   <a href="https://github.com/Rafael-Lasso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Lasso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Lasso&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Lasso&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+   
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Lasso&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</div>
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Lasso&repo=YouTube-Clone&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Lasso&repo=ChocoBrownie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
   
 <div  align="center" style="display: inline_block"><br>
  
