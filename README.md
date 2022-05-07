@@ -6,12 +6,32 @@
   <a href="https://github.com/Rafael-Lasso">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Lasso&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-    
-
+    </div>
+  
+## 
+## 🤹‍♂️ Minhas Skills ( Habilidades )
+ 
+ 
+<div>
+   <ul >
+      <li>✨ Organização</li>
+      <li>🧹 Codigo Limpo</li>
+      <li>🧮 Programação Orientada a Objeto (POO)</li>
+      <li>📱 Designe Repositivo</li>
+      <li>🕵️‍♂️ Autonomia</li>
+   </ul>
+</div>
+  
+##
+<div align="center">  
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Lasso&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
 ##
-📚 Conhecimento em...
+  
+  <br>
+  
+### 📚 Conhecimento em...
  
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -20,14 +40,20 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  
    <br>
 
 </div>
 
  <div align="center">
  <br>
-
-  ## ⚙ Veja Meus Trabalhos...</h1>
+   
+##
+   
+  ### ⚙ Veja Meus Trabalhos...
+   
+   <br>
   
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Lasso&repo=YouTube-Clone&theme=radical)](https://github.com/Rafael-Lasso/YouTube-Clone.git)
 
@@ -40,24 +66,10 @@
  
 </div>
   
- ##
- <div align="center">
-    <H1>🤹‍♂️ Minhas Skills ( Habilidades )</H1>
- </div>
- 
-<div>
-   <ul >
-      <li>✨ Organização</li>
-      <li>🧹 Codigo Limpo</li>
-      <li>🧮 Programação Orientada a Objeto (POO)</li>
-      <li>📱 Designe Repositivo</li>
-      <li>🕵️‍♂️ Autonomia</li>
-   </ul>
-</div>
 
- 
-  ##
- 📞 Entre em Contato
+
+ ##
+  ### 📞 Entre em Contato
  
 <div> 
   <a href="https://www.instagram.com/rafaellasso.b/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
