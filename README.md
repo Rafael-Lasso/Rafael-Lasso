@@ -6,10 +6,8 @@
   <a href="https://github.com/Rafael-Lasso">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Lasso&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-   
-## 
-   🖥 Minhas Linguagens mais Usadas
-   <br><br>
+    
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Lasso&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
 ##
@@ -29,7 +27,7 @@
  <div align="center">
  <br>
 
-  <h1>⚙ Veja Meus Trabalhos...</h1>
+  ## ⚙ Veja Meus Trabalhos...</h1>
   
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Lasso&repo=YouTube-Clone&theme=radical)](https://github.com/Rafael-Lasso/YouTube-Clone.git)
 
@@ -43,16 +41,20 @@
 </div>
   
  ##
- <H1>🤹‍♂️ Minhas Skills ( Habilidades )</H1>
- <div>
-     <ul>
-        <li>✨ Organização</li>
-        <li>🧹 Codigo Limpo</li>
-        <li>🧮 Programação Orientada a Objeto (POO)</li>
-        <li>📱 Designe Repositivo</li>
-        <li>🕵️‍♂️ Autonomia</li>
-     </ul>
+ <div align="center">
+    <H1>🤹‍♂️ Minhas Skills ( Habilidades )</H1>
  </div>
+ 
+<div>
+   <ul >
+      <li>✨ Organização</li>
+      <li>🧹 Codigo Limpo</li>
+      <li>🧮 Programação Orientada a Objeto (POO)</li>
+      <li>📱 Designe Repositivo</li>
+      <li>🕵️‍♂️ Autonomia</li>
+   </ul>
+</div>
+
  
   ##
  📞 Entre em Contato
