@@ -5,9 +5,14 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Lasso&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
    
-
+## 
+Minhas Linguagens mais Usadas
+   <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Lasso&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</div>
  
+ ## 
+Veja Meus Trabalhos
+   <br><br>
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Lasso&repo=YouTube-Clone&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
  
