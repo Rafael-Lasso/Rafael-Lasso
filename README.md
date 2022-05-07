@@ -1,4 +1,6 @@
- ## Ola eu sou a Rafael Lasso! 
+<div align="center">
+  <h1>Rafael Lasso</h1>
+</div>
 
 <div align="center">
   <a href="https://github.com/Rafael-Lasso">
@@ -6,12 +8,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Lasso&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
    
 ## 
-🖥 Minhas Linguagens mais Usadas
+   🖥 Minhas Linguagens mais Usadas
    <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Lasso&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
 ##
- 📚 Conhecimento em...
+📚 Conhecimento em...
  
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -20,19 +22,21 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   
+   <br>
+
 </div>
- 
- ## 
-⚙ Veja Meus Trabalhos
- 
-   <br><br>
+
+ <div align="center">
+ <br>
+
+  <h1>⚙ Veja Meus Trabalhos...</h1>
+  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Lasso&repo=YouTube-Clone&theme=radical)](https://github.com/Rafael-Lasso/YouTube-Clone.git)
 
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Lasso&repo=ChocoBrownie&theme=radical)](https://github.com/Rafael-Lasso/ChocoBrownie.git)
 
-  
+</div>  
 <div  align="center" style="display: inline_block"><br>
  
  
