@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/Rafael-Lasso">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Lasso&show_icons=true&theme=radical)](https://github.com/Rafael-Lasso/YouTube-Clone.git)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Lasso&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
    
 ## 
 🖥 Minhas Linguagens mais Usadas
@@ -27,7 +27,7 @@
 ⚙ Veja Meus Trabalhos
  
    <br><br>
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Lasso&repo=YouTube-Clone&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Lasso&repo=YouTube-Clone&theme=radical)](https://github.com/Rafael-Lasso/YouTube-Clone.git)
 
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Lasso&repo=ChocoBrownie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
