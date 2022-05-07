@@ -30,7 +30,7 @@
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Lasso&repo=YouTube-Clone&theme=radical)](https://github.com/Rafael-Lasso/YouTube-Clone.git)
 
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Lasso&repo=ChocoBrownie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Lasso&repo=ChocoBrownie&theme=radical)](https://github.com/Rafael-Lasso/ChocoBrownie.git)
 
   
 <div  align="center" style="display: inline_block"><br>
