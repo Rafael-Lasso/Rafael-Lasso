@@ -8,20 +8,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Lasso&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
     </div>
   
-## 
-## 🤹‍♂️ Minhas Skills ( Habilidades )
- 
- 
-<div>
-   <ul >
-      <li>✨ Organização</li>
-      <li>🕵️‍♂️ Autonomia</li>
-      <li>🧹 Codigo Limpo</li>
-      <li>📱 Designe Repositivo</li>
-      <li>🧮 Programação Orientada a Objeto (POO)</li>
-   </ul>
-</div>
-  
 ##
 <div align="center">  
   
