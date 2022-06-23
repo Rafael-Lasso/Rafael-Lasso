@@ -36,25 +36,6 @@
  <br>
    
 ##
-   
-  ### ⚙ Veja Meus Trabalhos...
-   
-   <br>
-  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Lasso&repo=YouTube-Clone&theme=radical)](https://github.com/Rafael-Lasso/YouTube-Clone.git)
-
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Lasso&repo=ChocoBrownie&theme=radical)](https://github.com/Rafael-Lasso/ChocoBrownie.git)
-
-</div>  
-<div  align="center" style="display: inline_block"><br>
- 
- 
-</div>
-  
-
-
- ##
   ### 📞 Entre em Contato
  
 <div> 
