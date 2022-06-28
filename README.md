@@ -2,16 +2,13 @@
   <h1>Rafael Lasso</h1>
 </div>
 
-<div align="center">
   <a href="https://github.com/Rafael-Lasso">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Lasso&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-    </div>
   
-##
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Lasso&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
 <div align="center">  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Lasso&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
 ##
   
@@ -26,11 +23,12 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
+ 
+  </div>
   
    <br>
 
-</div>
+
 
  <div align="center">
  <br>
