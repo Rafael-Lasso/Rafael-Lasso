@@ -1,6 +1,4 @@
-
-  <h1>Ola! meu nome é Rafael Lasso!</h1>
-
+  ## Ola! meu nome é Rafael Lasso!
 
 <div align="center">
   <a href="https://github.com/rafael-lasso">
