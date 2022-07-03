@@ -1,15 +1,12 @@
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-
 ## Ola! meu nome é Rafael Lasso!
+
 <div align="center">
   <a href="https://github.com/rafael-lasso">
-  <img width="380em" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Lasso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="380em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Lasso&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Lasso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Lasso&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Linguagens
+#### Linguagens
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -26,7 +23,7 @@
 </div>
 <br>
  
- ### Frameworks 
+ #### Frameworks 
   <img align="center" alt="Rafa-React" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-ElectronJs" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
   <img align="center" alt="Rafa-VueJs" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
