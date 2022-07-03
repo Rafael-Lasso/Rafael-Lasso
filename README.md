@@ -21,7 +21,6 @@
  
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images-ext-1.discordapp.net/external/IaoDzLuggXs4oAY_ELSQYPBEz_Kpw9qz15ERx6hNcbA/https/picrew.me/shareImg/org/202206/338224_M3X5rSio.png?width=566&height=566">
 </div>
-<br>
  
  #### Frameworks 
   <img align="center" alt="Rafa-React" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
