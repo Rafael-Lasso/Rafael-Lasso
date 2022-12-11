@@ -21,7 +21,7 @@
   <img align="center" alt="Rafa-C++"  width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Rafa-Csharp"  width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images-ext-1.discordapp.net/external/IaoDzLuggXs4oAY_ELSQYPBEz_Kpw9qz15ERx6hNcbA/https/picrew.me/shareImg/org/202206/338224_M3X5rSio.png?width=566&height=566">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/934153674073178206/991335240947728485/download20220602103147.png?width=566&height=566">
 </div>
  
   
