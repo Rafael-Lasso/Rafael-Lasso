@@ -51,7 +51,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,figma,md,ts,js,html,css,bootstrap,c,cpp,react,nextjs,tailwind,materialui,nodejs,express,nest,postman,mongodb,mysql,py,java,idea,linux,docker,github,git,discord&perline=14" />
   </a>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:100%;" src="https://cdn.discordapp.com/attachments/934153674073178206/991335240947728485/download20220602103147.png?width=566&height=566">
 </p>
 
 
@@ -67,6 +66,7 @@
 <p align="center">
 
 <!--icons and links-->
+  <img  alt="Rafa-pic" height="150" style="border-radius:100%;" src="https://cdn.discordapp.com/attachments/934153674073178206/991335240947728485/download20220602103147.png?width=566&height=566">
 
 
 
