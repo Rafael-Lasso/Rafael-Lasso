@@ -9,7 +9,7 @@
 
 <p display="flex" align="center">
 	<a align="center" href="https://github.com/Rafael-Lasso">
-		<img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvdor+Full+Stack+Web;Freelancer;Rafael+Lasso&center=true&width=380&height=45">
+		<img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvdor+Full+Stack+Web;Freelancer;Rafael+Lasso&center=true&width=380&height=35">
 	</a>
 </p>
 
