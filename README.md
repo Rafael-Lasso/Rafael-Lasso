@@ -9,7 +9,6 @@
 
 <p display="flex" align="center">
 	<a align="center" href="https://github.com/Rafael-Lasso">
-		<img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvdor+Full+Stack+Web;Freelancer;Rafael+Lasso&center=true&width=380&height=35">
 	</a>
 </p>
 
@@ -18,6 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Lasso&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Lasso&layout=compact&langs_count=7&theme=radical&include_all_commits=true&count_private=false""/>
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/934153674073178206/991335240947728485/download20220602103147.png?width=566&height=566">
+		<img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvdor+Full+Stack+Web;Freelancer;Rafael+Lasso&center=true&width=380&height=35">
 
 </div>
 </div>
