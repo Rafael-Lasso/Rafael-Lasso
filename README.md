@@ -2,11 +2,8 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-
-
 <br/>
 <h1 align="center">Oi, Eu sou...</h1>
-
 <p display="flex" align="center">
 	<a align="center" href="https://github.com/Rafael-Lasso">
 	</a>
@@ -16,8 +13,7 @@
   <a href="https://github.com/rafael-lasso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Lasso&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Lasso&layout=compact&langs_count=7&theme=radical&include_all_commits=true&count_private=false""/>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/934153674073178206/991335240947728485/download20220602103147.png?width=566&height=566">
-		<img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvdor+Full+Stack+Web;Freelancer;Rafael+Lasso&center=true&width=380&height=35">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvdor+Full+Stack+Web;Freelancer;Rafael+Lasso&center=true&width=380&height=45">
 
 </div>
 </div>
@@ -55,7 +51,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,figma,md,ts,js,html,css,bootstrap,c,cpp,react,nextjs,tailwind,materialui,nodejs,express,nest,postman,mongodb,mysql,py,java,idea,linux,docker,github,git,discord&perline=14" />
   </a>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:100%;" src="https://cdn.discordapp.com/attachments/934153674073178206/991335240947728485/download20220602103147.png?width=566&height=566">
 </p>
+
 
 
 <!-- Connect with me -->
